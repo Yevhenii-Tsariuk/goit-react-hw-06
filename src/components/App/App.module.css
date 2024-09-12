@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+ 
+}
+
+.container{
+  padding: 46px 34px;
+}
+
+.title{
+  margin-bottom: 14px;
+}
